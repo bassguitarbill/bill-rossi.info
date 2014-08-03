@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="160" height="130">
+	<polygon points="2,65 0,60 40,0 42,5" style="fill: #000000;"/>
+	 <polygon points="2,65 42,5 42,125" style="fill: #AAAAAA;"/>
+	 <polygon points="52,125 50,130 50,0 155,60 157,65" style="fill: #000000;"/>
+	 <polygon points="157,65 52,5 52,125" style="fill: #AAAAAA;"/>
+	 <polygon points="122,65 120,60 102.5,49.9 85,60 87,65" style="fill: #000000;"/>
+	 <polygon points="122,65 104.5,75.1 87,65 104.5,54.9" style="fill: #CCCCCC;"/>
+	 <polygon points="69.5,95.3 67.5,90.3 67.5,27.7 85,40 87,45" style="fill: #000000;"/>
+	 <polygon points="69.5,32.7 69.5,95.3 87,85 87,45" style="fill: #CCCCCC;"/>
+</svg>
